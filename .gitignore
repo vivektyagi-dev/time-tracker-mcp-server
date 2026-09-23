@@ -1,0 +1,7 @@
+scripts/
+*.txt
+.venv
+.venv-windows
+*.db
+.claude/
+__pycache__/
